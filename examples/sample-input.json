@@ -1,0 +1,9 @@
+{
+  "issues": [
+    {
+      "id": "42",
+      "title": "Slow API latency",
+      "body": "perf memory spike on /search"
+    }
+  ]
+}
